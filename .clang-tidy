@@ -1,0 +1,5 @@
+---
+Checks:          '-*,linuxkernel-*'
+WarningsAsErrors: ''
+HeaderFilterRegex: ''
+FormatStyle:     none
